@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.4.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="yes" active="yes"/>
@@ -324,33 +324,33 @@ BRCL4054BME
 <rectangle x1="-1.2" y1="0.85" x2="-0.7" y2="1.5" layer="51"/>
 </package>
 <package name="AWG">
-<pad name="P$1" x="0" y="0" drill="0.127" diameter="0.254"/>
-<pad name="P$2" x="0.635" y="0" drill="0.16001875" diameter="0.254"/>
-<pad name="P$3" x="1.27" y="0" drill="0.200659375" diameter="0.3048"/>
-<pad name="P$4" x="1.905" y="0" drill="0.254" diameter="0.3556"/>
-<pad name="P$5" x="2.54" y="0" drill="0.3175" diameter="0.4064"/>
-<pad name="P$6" x="3.302" y="0" drill="0.40131875" diameter="0.4826"/>
-<pad name="P$7" x="4.064" y="0" drill="0.508" diameter="0.635"/>
-<pad name="P$8" x="4.953" y="0" drill="0.635" diameter="0.762"/>
-<pad name="P$9" x="5.969" y="0" drill="0.802640625" diameter="0.9398"/>
-<pad name="P$10" x="7.239" y="0" drill="1.003046875" diameter="1.1176"/>
-<pad name="P$11" x="8.763" y="0" drill="1.27" diameter="1.397"/>
-<pad name="P$12" x="10.541" y="0" drill="1.60781875" diameter="1.7526"/>
-<pad name="P$13" x="12.7" y="0" drill="2.009140625" diameter="2.159"/>
+<pad name="P$1" x="-1.27" y="0" drill="0.127" diameter="0.254"/>
+<pad name="P$2" x="-0.381" y="0" drill="0.16001875" diameter="0.254"/>
+<pad name="P$3" x="0.508" y="0" drill="0.200659375" diameter="0.3048"/>
+<pad name="P$4" x="2.54" y="0" drill="0.254" diameter="0.3556"/>
+<pad name="P$5" x="3.81" y="0" drill="0.3175" diameter="0.4064"/>
+<pad name="P$6" x="5.842" y="0" drill="0.40131875" diameter="0.4826"/>
+<pad name="P$7" x="9.144" y="-2.54" drill="0.508" diameter="0.635"/>
+<pad name="P$8" x="6.223" y="-1.27" drill="0.635" diameter="0.762"/>
+<pad name="P$9" x="8.509" y="0" drill="0.802640625" diameter="0.9398"/>
+<pad name="P$10" x="11.049" y="0" drill="1.003046875" diameter="1.1176"/>
+<pad name="P$11" x="13.843" y="0" drill="1.27" diameter="1.397"/>
+<pad name="P$12" x="16.891" y="0" drill="1.60781875" diameter="1.7526"/>
+<pad name="P$13" x="20.32" y="0" drill="2.009140625" diameter="2.159"/>
 <text x="0" y="1.27" size="1.27" layer="21">AWG</text>
-<text x="12.573" y="1.27" size="0.254" layer="21">12</text>
-<text x="10.414" y="1.016" size="0.254" layer="21">14</text>
-<text x="8.636" y="0.889" size="0.254" layer="21">16</text>
-<text x="7.112" y="0.762" size="0.254" layer="21">18</text>
-<text x="5.842" y="0.508" size="0.254" layer="21">20</text>
-<text x="4.826" y="0.508" size="0.254" layer="21">22</text>
-<text x="3.937" y="0.508" size="0.254" layer="21">24</text>
-<text x="3.175" y="0.254" size="0.254" layer="21">26</text>
-<text x="2.413" y="0.254" size="0.254" layer="21">28</text>
-<text x="1.778" y="0.254" size="0.254" layer="21">30</text>
-<text x="1.143" y="0.254" size="0.254" layer="21">32</text>
-<text x="0.508" y="0.254" size="0.254" layer="21">34</text>
-<text x="-0.127" y="0.254" size="0.254" layer="21">36</text>
+<text x="20.193" y="1.27" size="0.254" layer="21">12</text>
+<text x="16.764" y="1.016" size="0.254" layer="21">14</text>
+<text x="13.716" y="0.889" size="0.254" layer="21">16</text>
+<text x="10.922" y="0.762" size="0.254" layer="21">18</text>
+<text x="8.382" y="0.508" size="0.254" layer="21">20</text>
+<text x="6.096" y="-0.762" size="0.254" layer="21">22</text>
+<text x="9.017" y="-2.032" size="0.254" layer="21">24</text>
+<text x="5.715" y="0.508" size="0.254" layer="21">26</text>
+<text x="3.683" y="0.508" size="0.254" layer="21">28</text>
+<text x="2.286" y="0.508" size="0.254" layer="21">30</text>
+<text x="0.508" y="0.508" size="0.254" layer="21">32</text>
+<text x="-0.508" y="0.508" size="0.254" layer="21">34</text>
+<text x="-1.524" y="0.508" size="0.254" layer="21">36</text>
 </package>
 </packages>
 <symbols>
