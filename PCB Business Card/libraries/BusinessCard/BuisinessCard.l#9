@@ -325,11 +325,11 @@ BRCL4054BME
 </package>
 <package name="AWG">
 <pad name="P$1" x="-1.27" y="0" drill="0.127" diameter="0.254"/>
-<pad name="P$2" x="0" y="0" drill="0.16001875" diameter="0.254"/>
+<pad name="P$2" x="-0.381" y="0" drill="0.16001875" diameter="0.254"/>
 <pad name="P$3" x="1.27" y="0" drill="0.200659375" diameter="0.3048"/>
-<pad name="P$4" x="3.175" y="-1.27" drill="0.254" diameter="0.3556"/>
-<pad name="P$5" x="2.54" y="0" drill="0.3175" diameter="0.4064"/>
-<pad name="P$6" x="3.81" y="0" drill="0.40131875" diameter="0.4826"/>
+<pad name="P$4" x="2.54" y="0" drill="0.254" diameter="0.3556"/>
+<pad name="P$5" x="3.81" y="0" drill="0.3175" diameter="0.4064"/>
+<pad name="P$6" x="5.842" y="0" drill="0.40131875" diameter="0.4826"/>
 <pad name="P$7" x="9.144" y="-2.54" drill="0.508" diameter="0.635"/>
 <pad name="P$8" x="6.223" y="-1.27" drill="0.635" diameter="0.762"/>
 <pad name="P$9" x="8.509" y="0" drill="0.802640625" diameter="0.9398"/>
@@ -345,12 +345,12 @@ BRCL4054BME
 <text x="8.382" y="0.508" size="0.254" layer="21">20</text>
 <text x="6.096" y="-0.762" size="0.254" layer="21">22</text>
 <text x="9.017" y="-2.032" size="0.254" layer="21">24</text>
-<text x="3.683" y="0.508" size="0.254" layer="21">26</text>
-<text x="2.413" y="0.508" size="0.254" layer="21">28</text>
-<text x="3.048" y="-1.016" size="0.254" layer="21">30</text>
+<text x="5.715" y="0.508" size="0.254" layer="21">26</text>
+<text x="3.683" y="0.508" size="0.254" layer="21">28</text>
+<text x="2.286" y="0.508" size="0.254" layer="21">30</text>
 <text x="1.143" y="0.508" size="0.254" layer="21">32</text>
-<text x="-0.127" y="0.508" size="0.254" layer="21">34</text>
-<text x="-1.397" y="0.508" size="0.254" layer="21">36</text>
+<text x="-0.508" y="0.508" size="0.254" layer="21">34</text>
+<text x="-1.524" y="0.508" size="0.254" layer="21">36</text>
 </package>
 </packages>
 <symbols>
