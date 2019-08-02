@@ -319,7 +319,7 @@
 <wire x1="69.088" y1="15.875" x2="75.5015" y2="15.875" width="0.1524" layer="21"/>
 <text x="8.255" y="47.244" size="2.54" layer="16" rot="MR0">V1.0</text>
 <text x="8.255" y="47.244" size="2.54" layer="30" rot="MR0">V1.0</text>
-<text x="66.8655" y="1.7145" size="2.54" layer="16" rot="MR0">+1 917-484-2637</text>
+<text x="69.088" y="1.7145" size="2.54" layer="16" rot="MR0">+1 917-484-2637</text>
 <text x="66.929" y="6.6675" size="2.54" layer="16" rot="MR0">andrei1998@gmail.com</text>
 <text x="66.929" y="10.8585" size="2.54" layer="16" rot="MR0">www.AndreiAldea.com</text>
 <rectangle x1="73.31075" y1="1.36525" x2="77.94625" y2="1.42875" layer="16"/>
@@ -3877,7 +3877,7 @@
 <text x="87.9475" y="48.387" size="1.524" layer="16" font="vector" rot="MR0">NFC Enabled | Logic Probe | Battery Charger | Ruler</text>
 <text x="66.929" y="6.6675" size="2.54" layer="30" rot="MR0">andrei1998@gmail.com</text>
 <text x="66.929" y="10.8585" size="2.54" layer="30" rot="MR0">www.AndreiAldea.com</text>
-<text x="66.8655" y="1.7145" size="2.54" layer="30" rot="MR0">+1 917-484-2637</text>
+<text x="69.088" y="1.7145" size="2.54" layer="30" rot="MR0">+1 917-484-2637</text>
 <rectangle x1="73.24725" y1="1.36525" x2="77.88275" y2="1.42875" layer="30"/>
 <rectangle x1="79.02575" y1="1.36525" x2="79.59725" y2="1.42875" layer="30"/>
 <rectangle x1="80.23225" y1="1.36525" x2="80.80375" y2="1.42875" layer="30"/>

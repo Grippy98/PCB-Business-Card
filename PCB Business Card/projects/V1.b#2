@@ -7432,7 +7432,7 @@
 <rectangle x1="67.21475" y1="33.62325" x2="67.46875" y2="33.68675" layer="30"/>
 <text x="65.7225" y="18.796" size="1.524" layer="30" font="vector" rot="MR0">Embedded Systems | PCB Design | Project Management</text>
 <text x="87.884" y="48.387" size="1.524" layer="30" font="vector" rot="MR0">NFC Enabled | Logic Probe | Battery Charger | Ruler</text>
-<wire x1="89.002040625" y1="50.62301875" x2="89.0266625" y2="33.147" width="0" layer="20"/>
+<wire x1="89.0016" y1="50.6222" x2="89.0266625" y2="33.147" width="0" layer="20"/>
 <wire x1="89.0266625" y1="33.147" x2="83.39521875" y2="33.16120625" width="0" layer="20"/>
 <wire x1="83.39521875" y1="33.16120625" x2="83.39521875" y2="25.361678125" width="0" layer="20"/>
 <wire x1="83.39521875" y1="25.361678125" x2="88.99966875" y2="25.361678125" width="0" layer="20"/>
