@@ -6703,7 +6703,7 @@ Source: http://www.ledtronics.com/ds/smd-0603/Dstr0092.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="LED" urn="urn:adsk.eagle:component:15916/9" prefix="LED" uservalue="yes" library_version="4">
+<deviceset name="LED" urn="urn:adsk.eagle:component:15916/10" prefix="LED" uservalue="yes" library_version="5">
 <description>&lt;b&gt;LED&lt;/b&gt;&lt;p&gt;
 &lt;u&gt;OSRAM&lt;/u&gt;:&lt;br&gt;
 
@@ -6792,7 +6792,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15796/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="20" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LD260" package="LD260">
@@ -6804,7 +6806,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15794/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SQR2X5" package="LED2X5">
@@ -6816,7 +6820,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15800/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="3MM" package="LED3MM">
@@ -6828,7 +6834,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15797/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="97" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="5MM" package="LED5MM">
@@ -6840,7 +6848,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15799/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="93" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LSU260" package="LSU260">
@@ -6852,7 +6862,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15805/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LZR181" package="LZR181">
@@ -6864,7 +6876,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15808/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B152" package="Q62902-B152">
@@ -6876,7 +6890,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15803/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B153" package="Q62902-B153">
@@ -6888,7 +6904,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15804/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B155" package="Q62902-B155">
@@ -6900,7 +6918,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15807/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B156" package="Q62902-B156">
@@ -6912,7 +6932,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15806/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SFH480" package="SFH480">
@@ -6924,7 +6946,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15809/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SFH482" package="SFH482">
@@ -6936,7 +6960,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15795/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SQR5.7X3.2" package="U57X32">
@@ -6948,7 +6974,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15789/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="IRL80A" package="IRL80A">
@@ -6960,7 +6988,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15810/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-2" package="P-LCC-2">
@@ -6972,7 +7002,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15817/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MINI-TOP" package="OSRAM-MINI-TOP-LED">
@@ -6984,7 +7016,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15811/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SIDELED" package="OSRAM-SIDELED">
@@ -6996,7 +7030,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15812/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SMART-LED" package="SMART-LED">
@@ -7008,7 +7044,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15814/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-2-BACK" package="P-LCC-2-TOPLED-RG">
@@ -7020,7 +7058,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15813/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MICRO-SIDELED" package="MICRO-SIDELED">
@@ -7032,7 +7072,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15815/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-4" package="P-LCC-4">
@@ -7044,7 +7086,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15816/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIP-LED0603" package="CHIP-LED0603">
@@ -7056,7 +7100,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15819/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="26" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIP-LED0805" package="CHIP-LED0805">
@@ -7068,7 +7114,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15818/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="68" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TOPLED-SANTANA" package="MINI-TOPLED-SANTANA">
@@ -7080,7 +7128,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15820/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_0805" package="CHIPLED_0805">
@@ -7092,7 +7142,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15821/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="52" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_1206" package="CHIPLED_1206">
@@ -7104,7 +7156,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15823/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="28" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_0603" package="CHIPLED_0603">
@@ -7116,7 +7170,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15822/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="28" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED-0603-TTW" package="CHIPLED-0603-TTW">
@@ -7128,7 +7184,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15824/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="" package="SMARTLED-TTW">
@@ -7140,7 +7198,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15825/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="-LUMILED+" package="LUMILED+">
@@ -7152,7 +7212,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15826/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="-LUMILED" package="LUMILED">
@@ -7164,7 +7226,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15827/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="10MM" package="LED10MM">
@@ -7176,7 +7240,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15828/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="KA-3528ASYC" package="KA-3528ASYC">
@@ -7188,7 +7254,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15831/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML0805" package="SML0805">
@@ -7200,7 +7268,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15830/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML1206" package="SML1206">
@@ -7212,7 +7282,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15829/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="6" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML0603" package="SML0603">
@@ -7224,7 +7296,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15832/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -11219,7 +11293,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="R-US_" urn="urn:adsk.eagle:component:23792/21" prefix="R" uservalue="yes" library_version="10">
+<deviceset name="R-US_" urn="urn:adsk.eagle:component:23792/22" prefix="R" uservalue="yes" library_version="11">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, American symbol</description>
 <gates>
 <gate name="G$1" symbol="R-US" x="0" y="0"/>
@@ -11235,6 +11309,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="34" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11249,6 +11324,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="77" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11263,6 +11339,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="85" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11277,6 +11354,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11291,6 +11369,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="19" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11305,6 +11384,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11319,6 +11399,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11333,6 +11414,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11347,6 +11429,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11361,6 +11444,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11375,6 +11459,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11389,6 +11474,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11403,6 +11489,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11417,6 +11504,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11431,6 +11519,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11445,6 +11534,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11459,6 +11549,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11473,6 +11564,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11487,6 +11579,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11501,6 +11594,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11515,6 +11609,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11529,6 +11624,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11543,6 +11639,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="45" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11557,6 +11654,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="22" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11571,6 +11669,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11585,6 +11684,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11599,6 +11699,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11613,6 +11714,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11627,6 +11729,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11641,6 +11744,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11655,6 +11759,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="18" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11669,6 +11774,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="48" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11683,6 +11789,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="36" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11697,6 +11804,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11711,6 +11819,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11725,6 +11834,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11739,6 +11849,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11753,6 +11864,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="22" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11767,6 +11879,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11781,6 +11894,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="8" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11795,6 +11909,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11809,6 +11924,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11823,6 +11939,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11837,6 +11954,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11851,6 +11969,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11865,6 +11984,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11879,6 +11999,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11893,6 +12014,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11907,6 +12029,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11921,6 +12044,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11935,6 +12059,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11949,6 +12074,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11963,6 +12089,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11977,6 +12104,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -11991,6 +12119,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12005,6 +12134,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12019,6 +12149,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12033,6 +12164,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12047,6 +12179,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12061,6 +12194,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12075,6 +12209,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12089,6 +12224,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12103,6 +12239,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12117,6 +12254,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12131,6 +12269,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12145,6 +12284,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12159,6 +12299,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12173,6 +12314,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12187,6 +12329,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12201,6 +12344,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12215,6 +12359,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12229,6 +12374,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12243,6 +12389,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12257,6 +12404,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12271,6 +12419,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12285,6 +12434,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12299,6 +12449,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12313,6 +12464,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12327,6 +12479,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12341,6 +12494,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12355,6 +12509,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12369,6 +12524,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12383,6 +12539,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12397,6 +12554,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12411,6 +12569,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -12678,7 +12837,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <wire x1="24.02" y1="9.8" x2="21.32" y2="12.5" width="0.3" layer="16" curve="90"/>
 <wire x1="-21.28" y1="12.5" x2="-23.98" y2="9.8" width="0.3" layer="16" curve="90"/>
 <wire x1="-23.98" y1="9.8" x2="-23.98" y2="-9.8" width="0.3" layer="16"/>
-<wire x1="0.635" y1="13.335" x2="0.635" y2="9.525" width="0.3" layer="16"/>
+<wire x1="0.635" y1="13.335" x2="0.635" y2="9.525" width="0.3" layer="1"/>
 <wire x1="21.3" y1="10.1" x2="1.21" y2="10.1" width="0.3" layer="16"/>
 <wire x1="1.21" y1="10.1" x2="0.635" y2="9.525" width="0.3" layer="16"/>
 <wire x1="-21.3" y1="12.5" x2="-0.835" y2="12.5" width="0.3" layer="16"/>
@@ -17227,7 +17386,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="TP" urn="urn:adsk.eagle:component:27992/2" prefix="TP" library_version="2">
+<deviceset name="TP" urn="urn:adsk.eagle:component:27992/3" prefix="TP" library_version="3">
 <description>&lt;b&gt;Test pad&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="TP" x="0" y="0"/>
@@ -17242,6 +17401,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="19" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17255,6 +17415,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17268,6 +17429,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="12" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17281,6 +17443,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17294,6 +17457,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17307,6 +17471,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17320,6 +17485,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17333,6 +17499,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17346,6 +17513,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17359,6 +17527,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17372,6 +17541,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17385,6 +17555,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17398,6 +17569,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17411,6 +17583,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17424,6 +17597,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17437,6 +17611,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17450,6 +17625,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17463,6 +17639,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17476,6 +17653,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17489,6 +17667,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17502,6 +17681,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17515,6 +17695,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17528,6 +17709,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17541,6 +17723,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17554,6 +17737,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17567,6 +17751,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17580,6 +17765,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17593,6 +17779,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17606,6 +17793,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17619,6 +17807,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17632,6 +17821,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17645,6 +17835,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17658,6 +17849,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17671,6 +17863,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17684,6 +17877,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17697,6 +17891,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17710,6 +17905,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17723,6 +17919,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="TP_SIGNAL_NAME" value="" constant="no"/>
 </technology>
 </technologies>
@@ -17831,7 +18028,7 @@ Solder type</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="0R-JUMP" urn="urn:adsk.eagle:component:15388/1" prefix="JMP" library_version="1">
+<deviceset name="0R-JUMP" urn="urn:adsk.eagle:component:15388/2" prefix="JMP" library_version="2">
 <description>&lt;b&gt;SMD 0R 0805 Jumper&lt;/b&gt;&lt;p&gt;</description>
 <gates>
 <gate name="-0R" symbol="0RJM" x="0" y="0" addlevel="always"/>
@@ -17848,7 +18045,9 @@ Solder type</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15385/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B" package="B0R-JMP">
@@ -17861,7 +18060,9 @@ Solder type</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15387/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="C" package="C0R-JMP">
@@ -17874,7 +18075,9 @@ Solder type</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15386/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -19889,7 +20092,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="DIODE-" urn="urn:adsk.eagle:component:43657/20" prefix="D" uservalue="yes" library_version="7">
+<deviceset name="DIODE-" urn="urn:adsk.eagle:component:43657/21" prefix="D" uservalue="yes" library_version="8">
 <description>&lt;b&gt;DIODE&lt;/b&gt;</description>
 <gates>
 <gate name="G$1" symbol="D" x="0" y="0"/>
@@ -19904,7 +20107,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43336/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO35-10" package="DO35-10">
@@ -19916,7 +20121,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43344/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO204-10" package="DO204-10">
@@ -19928,7 +20135,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43366/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO15-12" package="DO15-12">
@@ -19940,7 +20149,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43369/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD57-10" package="SOD57-10">
@@ -19952,7 +20163,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43367/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO201-15" package="DO201-15">
@@ -19964,7 +20177,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43365/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO07" package="DO07">
@@ -19976,7 +20191,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43394/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P1-10" package="P1-10">
@@ -19988,7 +20205,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43375/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P2-15" package="P2-15">
@@ -20000,7 +20219,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43345/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO34-7" package="DO34-7">
@@ -20012,7 +20233,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43348/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT54H" package="SOT54H">
@@ -20024,7 +20247,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43359/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD523" package="SOD523">
@@ -20036,7 +20261,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43410/4"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO18D" package="TO18D">
@@ -20048,7 +20275,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43443/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="C1702-05" package="C1702-05">
@@ -20060,7 +20289,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43430/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="C1702-15" package="C1702-15">
@@ -20072,7 +20303,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43351/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SGA-10" package="SGA-10">
@@ -20084,7 +20317,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43388/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD64-10" package="SOD64-10">
@@ -20096,7 +20331,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43385/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD61A" package="SOD61A">
@@ -20108,7 +20345,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43377/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD61B" package="SOD61B">
@@ -20120,7 +20359,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43379/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD61C" package="SOD61C">
@@ -20132,7 +20373,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43378/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD61D" package="SOD61D">
@@ -20144,7 +20387,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43381/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD61E" package="SOD61E">
@@ -20156,7 +20401,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43380/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO27-15" package="DO27-15">
@@ -20168,7 +20415,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43337/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD81" package="SOD81">
@@ -20180,7 +20429,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43363/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD84" package="SOD84">
@@ -20192,7 +20443,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43376/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="F126-10" package="F126-10">
@@ -20204,7 +20457,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43396/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO220S" package="DO220S">
@@ -20216,7 +20471,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43371/4"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO220H" package="TO220AC">
@@ -20228,7 +20485,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43370/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO220V" package="TO220ACS">
@@ -20240,7 +20499,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43373/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="G4-12" package="G4-12">
@@ -20252,7 +20513,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43368/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD83-12" package="SOD83-12">
@@ -20264,7 +20527,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43382/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SMB" package="SMB">
@@ -20276,7 +20541,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43404/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="11" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P6-15" package="P6-15">
@@ -20288,7 +20555,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43343/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="C2673" package="C2673">
@@ -20300,7 +20569,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43390/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="C221B1A" package="C221B1A">
@@ -20312,7 +20583,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43391/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD80C" package="SOD80C">
@@ -20324,7 +20597,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43405/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="9" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D-10" package="D-10">
@@ -20336,7 +20611,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43434/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D-12.5" package="D-12.5">
@@ -20348,7 +20625,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43427/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D-2.5" package="D-2.5">
@@ -20360,7 +20639,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43419/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="10" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D-5" package="D-5">
@@ -20372,7 +20653,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43440/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="8" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D-7.5" package="D-7.5">
@@ -20384,7 +20667,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43423/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD106-R" package="SOD106-R">
@@ -20396,7 +20681,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43424/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SMC" package="SMC">
@@ -20408,7 +20695,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43425/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD106-W" package="SOD106-W">
@@ -20420,7 +20709,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43431/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD106A-R" package="SOD106A-R">
@@ -20432,7 +20723,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43438/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD110-W" package="SOD110-W">
@@ -20444,7 +20737,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43428/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD110-R" package="SOD110-R">
@@ -20456,7 +20751,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43426/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD123" package="SOD123">
@@ -20468,7 +20765,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43420/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="22" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD323-R" package="SOD323-R">
@@ -20480,7 +20779,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43437/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOD323-W" package="SOD323-W">
@@ -20492,7 +20793,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43418/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="GF1" package="GF1">
@@ -20504,7 +20807,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43422/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MINIMELF" package="MINIMELF">
@@ -20516,7 +20821,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43429/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="25" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MELF-MLL41" package="MELF-MLL41">
@@ -20528,7 +20835,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43444/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MICROMELF-R" package="MICROMELF-R">
@@ -20540,7 +20849,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43436/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MICROMELF-W" package="MICROMELF-W">
@@ -20552,7 +20863,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43441/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SC79_INFINEON" package="SC79_INFINEON">
@@ -20564,7 +20877,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43432/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SCD80-INFINEON" package="SCD80_INFINEON">
@@ -20576,7 +20891,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43414/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO214AA" package="DO214AA">
@@ -20588,7 +20905,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43433/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="8" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO214AC" package="DO214AC">
@@ -20600,7 +20919,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43417/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="14" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO214BA" package="DO214BA">
@@ -20612,7 +20933,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43453/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO-214AC" package="DO-214AC">
@@ -20624,7 +20947,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43416/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="25" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="DO41-7.6" package="DO41-7.6">
@@ -20636,7 +20961,9 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:43421/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="7" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -21798,7 +22125,7 @@ http://www.ee.siue.edu/~alozows/library/datasheets/BFR96.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="*-NPN-" urn="urn:adsk.eagle:component:30081/22" prefix="T" uservalue="yes" library_version="5">
+<deviceset name="*-NPN-" urn="urn:adsk.eagle:component:30081/23" prefix="T" uservalue="yes" library_version="6">
 <description>NPN Transistror&lt;p&gt;
 BF959 corrected 2008.03.06&lt;br&gt;</description>
 <gates>
@@ -21815,7 +22142,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29899/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO18-EBC" package="TO18">
@@ -21828,28 +22157,72 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28526/2"/>
 </package3dinstances>
 <technologies>
-<technology name="2N2218"/>
-<technology name="2N2222"/>
-<technology name="2N2222A"/>
-<technology name="2N2369"/>
-<technology name="2N2369A"/>
-<technology name="2N2484"/>
-<technology name="2N2896"/>
-<technology name="2N3700"/>
-<technology name="2N930"/>
-<technology name="BC107A"/>
-<technology name="BC107B"/>
-<technology name="BC108B"/>
-<technology name="BC108C"/>
-<technology name="BCY58-IX"/>
-<technology name="BCY58-VIII"/>
-<technology name="BCY59-VII"/>
-<technology name="BCY59-VIII"/>
-<technology name="BCY59-X"/>
-<technology name="BSS71"/>
-<technology name="BSS72"/>
-<technology name="BSS73"/>
-<technology name="BSX20"/>
+<technology name="2N2218">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2222">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2222A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2369">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2369A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2484">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2896">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N3700">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N930">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC107A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC107B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC108B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC108C">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCY58-IX">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCY58-VIII">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCY59-VII">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCY59-VIII">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCY59-X">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSS71">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSS72">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSS73">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSX20">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO18-" package="TO18-">
@@ -21862,7 +22235,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28983/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO202" package="TO202">
@@ -21875,7 +22250,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28525/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO202V" package="TO202V">
@@ -21888,7 +22265,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28741/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT93" package="SOT93">
@@ -21901,7 +22280,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29486/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT93V" package="SOT93V">
@@ -21914,7 +22295,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28764/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO126" package="TO126">
@@ -21927,7 +22310,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29898/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO126V" package="TO126V">
@@ -21940,7 +22325,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28743/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO218" package="TO218">
@@ -21953,7 +22340,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28522/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO218V" package="TO218V">
@@ -21966,7 +22355,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28519/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO220" package="TO220">
@@ -21979,7 +22370,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28520/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO220V" package="TO220V">
@@ -21992,7 +22385,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28746/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO225AA" package="TO225AA">
@@ -22005,7 +22400,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29905/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO39-EBC" package="TO39">
@@ -22018,25 +22415,63 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28730/1"/>
 </package3dinstances>
 <technologies>
-<technology name="2N1613"/>
-<technology name="2N1711"/>
-<technology name="2N1893"/>
-<technology name="2N2102"/>
-<technology name="2N2218"/>
-<technology name="2N2219"/>
-<technology name="2N2219A"/>
-<technology name="2N3019"/>
-<technology name="2N3020"/>
-<technology name="2N3439"/>
-<technology name="2N3440"/>
-<technology name="BC140-10"/>
-<technology name="BC140-16"/>
-<technology name="BC141-10"/>
-<technology name="BC141-16"/>
-<technology name="BFY50"/>
-<technology name="BSX45-16"/>
-<technology name="BSX46-10"/>
-<technology name="BSX46-16"/>
+<technology name="2N1613">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N1711">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N1893">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2102">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2218">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2219">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N2219A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N3019">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N3020">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N3439">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N3440">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC140-10">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC140-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC141-10">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC141-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFY50">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSX45-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSX46-10">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSX46-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO5" package="TO5">
@@ -22049,7 +22484,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28729/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO66" package="TO66">
@@ -22062,7 +22499,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29220/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92" package="TO92">
@@ -22075,7 +22514,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28523/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-EBC" package="TO92-EBC">
@@ -22088,19 +22529,45 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29915/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
-<technology name="29"/>
-<technology name="92"/>
-<technology name="BC317"/>
-<technology name="BC318"/>
-<technology name="BC319"/>
-<technology name="MPSA06"/>
-<technology name="MPSA13"/>
-<technology name="MPSA14"/>
-<technology name="MPSA18"/>
-<technology name="MPSA28"/>
-<technology name="MPSA42"/>
-<technology name="MPSA44"/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="29">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="92">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC317">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC318">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC319">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA06">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA13">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA14">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA18">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA28">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA42">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSA44">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-E1" package="TO92-E1">
@@ -22113,7 +22580,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29916/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92L" package="TO92L">
@@ -22126,7 +22595,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29918/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TOP3" package="TOP3">
@@ -22139,7 +22610,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28521/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TOP3V" package="TOP3V">
@@ -22152,7 +22625,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28768/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT23-BEC" package="SOT23-BEC">
@@ -22165,83 +22640,237 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28748/2"/>
 </package3dinstances>
 <technologies>
-<technology name="BC808"/>
-<technology name="BC817"/>
-<technology name="BC817-16"/>
-<technology name="BC817-16LT1"/>
-<technology name="BC817-25"/>
-<technology name="BC817-25LT1"/>
-<technology name="BC817-40"/>
-<technology name="BC817-40LT1"/>
-<technology name="BC818"/>
-<technology name="BC818-16"/>
-<technology name="BC818-25"/>
-<technology name="BC818-40"/>
-<technology name="BC846"/>
-<technology name="BC846A"/>
-<technology name="BC846ALT1"/>
-<technology name="BC846B"/>
-<technology name="BC846BLT1"/>
-<technology name="BC847"/>
-<technology name="BC847A"/>
-<technology name="BC847ALT1"/>
-<technology name="BC847B"/>
-<technology name="BC847BLT1"/>
-<technology name="BC847C"/>
-<technology name="BC847CLT1"/>
-<technology name="BC848"/>
-<technology name="BC848A"/>
-<technology name="BC848ALT1"/>
-<technology name="BC848B"/>
-<technology name="BC848BLT1"/>
-<technology name="BC848C"/>
-<technology name="BC848CLT1"/>
-<technology name="BC849"/>
-<technology name="BC850"/>
-<technology name="BCF29"/>
-<technology name="BCF30"/>
-<technology name="BCF32"/>
-<technology name="BCF33"/>
-<technology name="BCF81"/>
-<technology name="BCV71"/>
-<technology name="BCV72"/>
-<technology name="BCW31"/>
-<technology name="BCW32"/>
-<technology name="BCW33"/>
-<technology name="BCW60"/>
-<technology name="BCW71"/>
-<technology name="BCW72"/>
-<technology name="BCW81"/>
-<technology name="BCX19"/>
-<technology name="BCX20"/>
-<technology name="BCX70"/>
-<technology name="BF820"/>
-<technology name="BF822"/>
-<technology name="BFR53"/>
-<technology name="BFR92"/>
-<technology name="BFR92A"/>
-<technology name="BFR93"/>
-<technology name="BFR93A"/>
-<technology name="BFS17"/>
-<technology name="BFS19"/>
-<technology name="BFS20"/>
-<technology name="BFT25"/>
-<technology name="BSR12"/>
-<technology name="BSR13"/>
-<technology name="BSR14"/>
-<technology name="BSV52LT1"/>
-<technology name="MMBT2222ALT1"/>
-<technology name="MMBT2369LT1"/>
-<technology name="MMBT2484LT1"/>
-<technology name="MMBT3904LT1"/>
-<technology name="MMBT4401LT1"/>
-<technology name="MMBT5551LT1"/>
-<technology name="MMBT6429LT1"/>
-<technology name="MMBT6517LT1"/>
-<technology name="MMBT918LT1"/>
-<technology name="MMBTA42LT1"/>
-<technology name="MMBTH10LT1"/>
-<technology name="MMBTH24LT1"/>
+<technology name="BC808">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-16LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-25">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-25LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-40">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC817-40LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC818">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC818-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC818-25">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC818-40">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC846">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC846A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC846ALT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC846B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC846BLT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847ALT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847BLT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847C">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC847CLT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848ALT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848BLT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848C">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC848CLT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC849">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC850">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCF29">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCF30">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCF32">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCF33">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCF81">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCV71">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCV72">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW31">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW32">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW33">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW60">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW71">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW72">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCW81">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX19">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX20">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX70">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF820">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF822">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFR53">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFR92">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFR92A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFR93">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFR93A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFS17">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFS19">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFS20">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BFT25">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSR12">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSR13">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSR14">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BSV52LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT2222ALT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT2369LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT2484LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT3904LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT4401LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT5551LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT6429LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT6517LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBT918LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBTA42LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBTH10LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMBTH24LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT23-EBC" package="SOT23-EBC">
@@ -22254,7 +22883,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28750/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-BCE" package="TO92-BCE">
@@ -22267,8 +22898,12 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29924/2"/>
 </package3dinstances>
 <technologies>
-<technology name="BF420"/>
-<technology name="BF422"/>
+<technology name="BF420">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF422">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-CBE" package="TO92-CBE">
@@ -22281,48 +22916,132 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29921/2"/>
 </package3dinstances>
 <technologies>
-<technology name="2N4124"/>
-<technology name="2N5400"/>
-<technology name="2N5401"/>
-<technology name="2N5550"/>
-<technology name="2N5551"/>
-<technology name="2N6427"/>
-<technology name="2N6517"/>
-<technology name="2N6520"/>
-<technology name="BC237"/>
-<technology name="BC238"/>
-<technology name="BC239"/>
-<technology name="BC328"/>
-<technology name="BC337"/>
-<technology name="BC337-16"/>
-<technology name="BC337-25"/>
-<technology name="BC337-40"/>
-<technology name="BC338-16"/>
-<technology name="BC338-25"/>
-<technology name="BC338-40"/>
-<technology name="BC372"/>
-<technology name="BC373"/>
-<technology name="BC447"/>
-<technology name="BC449"/>
-<technology name="BC449A"/>
-<technology name="BC485"/>
-<technology name="BC487"/>
-<technology name="BC489"/>
-<technology name="BC517"/>
-<technology name="BC546"/>
-<technology name="BC547"/>
-<technology name="BC547A"/>
-<technology name="BC547B"/>
-<technology name="BC548"/>
-<technology name="BC549"/>
-<technology name="BC550"/>
-<technology name="BC618"/>
-<technology name="BF391"/>
-<technology name="BF393"/>
-<technology name="BF844"/>
-<technology name="MPS2222A"/>
-<technology name="MPSL51"/>
-<technology name="MPSW42"/>
+<technology name="2N4124">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N5400">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N5401">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N5550">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N5551">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N6427">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N6517">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="2N6520">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC237">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC238">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC239">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC328">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC337">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC337-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC337-25">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC337-40">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC338-16">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC338-25">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC338-40">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC372">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC373">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC447">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC449">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC449A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC485">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC487">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC489">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC517">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC546">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC547">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC547A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC547B">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC548">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC549">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC550">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC618">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF391">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF393">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF844">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPS2222A">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSL51">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPSW42">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-BEC" package="TO92-BEC">
@@ -22335,9 +23054,15 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29922/2"/>
 </package3dinstances>
 <technologies>
-<technology name="BF199"/>
-<technology name="BF224"/>
-<technology name="BF240"/>
+<technology name="BF199">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF224">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF240">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-CEB" package="TO92-CEB">
@@ -22350,9 +23075,15 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29923/2"/>
 </package3dinstances>
 <technologies>
-<technology name="BF374"/>
-<technology name="BF959"/>
-<technology name="MPHS10"/>
+<technology name="BF374">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF959">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MPHS10">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SC59-BEC" package="SC59-BEC">
@@ -22365,10 +23096,18 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28754/2"/>
 </package3dinstances>
 <technologies>
-<technology name="MMUN2211LT1"/>
-<technology name="MMUN2212LT1"/>
-<technology name="MMUN2213LT1"/>
-<technology name="MMUN2214LT1"/>
+<technology name="MMUN2211LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMUN2212LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMUN2213LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="MMUN2214LT1">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT89-BCE" package="SOT89-BCE">
@@ -22381,12 +23120,24 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29925/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
-<technology name="BC868"/>
-<technology name="BCX54"/>
-<technology name="BCX55"/>
-<technology name="BCX56"/>
-<technology name="BF622"/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC868">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX54">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX55">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BCX56">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BF622">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT-37" package="SOT37">
@@ -22399,7 +23150,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:28760/1"/>
 </package3dinstances>
 <technologies>
-<technology name="BFR96"/>
+<technology name="BFR96">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TO92-ECB" package="TO92-ECB">
@@ -22412,14 +23165,30 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:29929/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
-<technology name="BC167"/>
-<technology name="BC168"/>
-<technology name="BC169"/>
-<technology name="BC368"/>
-<technology name="BC635"/>
-<technology name="BC637"/>
-<technology name="BC639"/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC167">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC168">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC169">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC368">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC635">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC637">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+<technology name="BC639">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -22516,7 +23285,7 @@ Includes Amendment 1, October 1996&lt;p&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="NPN-TRANSISTIOR-2COL" urn="urn:adsk.eagle:component:26316/2" prefix="Q" uservalue="yes" library_version="4">
+<deviceset name="NPN-TRANSISTIOR-2COL" urn="urn:adsk.eagle:component:26316/3" prefix="Q" uservalue="yes" library_version="5">
 <description>&lt;B&gt;NPN TRANSISTOR&lt;/B&gt;&lt;p&gt;
 2 colletor pins</description>
 <gates>
@@ -22534,7 +23303,9 @@ Includes Amendment 1, October 1996&lt;p&gt;
 <package3dinstance package3d_urn="urn:adsk.eagle:package:26315/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SOT89" package="SOT89">
@@ -22548,7 +23319,9 @@ Includes Amendment 1, October 1996&lt;p&gt;
 <package3dinstance package3d_urn="urn:adsk.eagle:package:26313/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -22610,7 +23383,7 @@ http://www.zetex.com&lt;p&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="NPNSOT223" urn="urn:adsk.eagle:component:31008/1" prefix="T" uservalue="yes" library_version="4">
+<deviceset name="NPNSOT223" urn="urn:adsk.eagle:component:31008/3" prefix="T" uservalue="yes" library_version="5">
 <description>&lt;b&gt;NPN TRANSISTOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="NPN" x="0" y="0"/>
@@ -22631,6 +23404,7 @@ http://www.zetex.com&lt;p&gt;
 <attribute name="MPN" value="DJT4031N-13" constant="no"/>
 <attribute name="OC_FARNELL" value="1710672" constant="no"/>
 <attribute name="OC_NEWARK" value="25R4490" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -22799,7 +23573,7 @@ Source: http://www.microchip.com .. 39637a.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="PIC24FJ16GA002_QFN" urn="urn:adsk.eagle:component:20919/2" prefix="IC" library_version="4">
+<deviceset name="PIC24FJ16GA002_QFN" urn="urn:adsk.eagle:component:20919/3" prefix="IC" library_version="5">
 <description>&lt;b&gt;PIC24FJ16GA002_QFN&lt;/b&gt; &lt;font color="red"&gt;edit this description&lt;/font&gt;&lt;p&gt;
 Auto generated by &lt;i&gt;make-symbol-device-package-bsdl.ulp Rev. 25&lt;/i&gt;&lt;br&gt;
 Source: PIC24FJ16GA002_QFN.bsd</description>
@@ -22847,6 +23621,7 @@ Source: PIC24FJ16GA002_QFN.bsd</description>
 <attribute name="MPN" value="PIC24FJ16GA002-I/ML" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="40M1425" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -22952,7 +23727,7 @@ Package centre and &amp;lt;NAME &amp; &amp;lt;VALUE placed by librarian@cadsoft.
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="T8*C5121" urn="urn:adsk.eagle:component:4420/1" prefix="IC" library_version="3">
+<deviceset name="T8*C5121" urn="urn:adsk.eagle:component:4420/2" prefix="IC" library_version="4">
 <description>&lt;b&gt;8-bit Microcontroller with Multiprotocol Smart Card Interface&lt;/b&gt;&lt;p&gt;
 Source: Uploaded by Heiko Künzel &lt;heiko.kuenzel@atg-gera.de&gt; from ATG Automatisierungstechnik Gera&lt;br&gt;
 Mon Mar 10 13:32:48 2003 Atmel-Library mit zusätzlich T83C5121-Prozessor im SSOP24-Package.</description>
@@ -22996,6 +23771,7 @@ Mon Mar 10 13:32:48 2003 Atmel-Library mit zusätzlich T83C5121-Prozessor im SSO
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -23104,7 +23880,7 @@ Siemens, Hewlett-Packard, Texas Instuments, Sharp, Motorola&lt;p&gt;
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="LS7184" urn="urn:adsk.eagle:component:22045/1" prefix="IC" library_version="2">
+<deviceset name="LS7184" urn="urn:adsk.eagle:component:22045/2" prefix="IC" library_version="3">
 <description>&lt;b&gt;Encoder to Counter Interface&lt;/b&gt;&lt;p&gt;
 Source: http://www.usdigital.com/products/ls7183-ls7184/ls7183 ls7184 Data Sheet.pdf</description>
 <gates>
@@ -23131,6 +23907,7 @@ Source: http://www.usdigital.com/products/ls7183-ls7184/ls7183 ls7184 Data Sheet
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -23154,6 +23931,7 @@ Source: http://www.usdigital.com/products/ls7183-ls7184/ls7183 ls7184 Data Sheet
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -23278,7 +24056,7 @@ Based on the following sources:
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="4001" urn="urn:adsk.eagle:component:881/4" prefix="IC" library_version="3">
+<deviceset name="4001" urn="urn:adsk.eagle:component:881/5" prefix="IC" library_version="4">
 <description>Quad 2-input &lt;b&gt;NOR&lt;/b&gt;</description>
 <gates>
 <gate name="A" symbol="4001" x="20.32" y="0" swaplevel="1"/>
@@ -23309,7 +24087,9 @@ Based on the following sources:
 <package3dinstance package3d_urn="urn:adsk.eagle:package:16407/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="D" package="SO14">
@@ -23332,6 +24112,59 @@ Based on the following sources:
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:823/2"/>
 </package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="supply2" urn="urn:adsk.eagle:library:372">
+<description>&lt;b&gt;Supply Symbols&lt;/b&gt;&lt;p&gt;
+GND, VCC, 0V, +5V, -5V, etc.&lt;p&gt;
+Please keep in mind, that these devices are necessary for the
+automatic wiring of the supply signals.&lt;p&gt;
+The pin name defined in the symbol is identical to the net which is to be wired automatically.&lt;p&gt;
+In this library the device names are the same as the pin names of the symbols, therefore the correct signal names appear next to the supply symbols in the schematic.&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+</packages>
+<symbols>
+<symbol name="VDD" urn="urn:adsk.eagle:symbol:26998/1" library_version="2">
+<circle x="0" y="1.27" radius="1.27" width="0.254" layer="94"/>
+<text x="-1.905" y="3.175" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="VDD" x="0" y="-2.54" visible="off" length="short" direction="sup" rot="R90"/>
+</symbol>
+<symbol name="VSS" urn="urn:adsk.eagle:symbol:27016/1" library_version="2">
+<circle x="0" y="-1.27" radius="1.27" width="0.254" layer="94"/>
+<text x="-1.905" y="-4.699" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="VSS" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="VDD" urn="urn:adsk.eagle:component:27044/1" prefix="SUPPLY" library_version="2">
+<description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
+<gates>
+<gate name="G$1" symbol="VDD" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="VSS" urn="urn:adsk.eagle:component:27065/1" prefix="SUPPLY" library_version="2">
+<description>&lt;b&gt;SUPPLY SYMBOL&lt;/b&gt;</description>
+<gates>
+<gate name="G$1" symbol="VSS" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
 <technologies>
 <technology name=""/>
 </technologies>
@@ -23417,7 +24250,8 @@ Based on the following sources:
 <part name="IC4" library="optocoupler" library_urn="urn:adsk.eagle:library:320" deviceset="LS7184" device="-SOIC" package3d_urn="urn:adsk.eagle:package:21945/1"/>
 <part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="3MM" package3d_urn="urn:adsk.eagle:package:15797/1" value="WHITE"/>
 <part name="IC5" library="40xx" library_urn="urn:adsk.eagle:library:80" deviceset="4001" device="D" package3d_urn="urn:adsk.eagle:package:823/2"/>
-<part name="U$5" library="business_card" deviceset="NFC_ANT_48X25" device=""/>
+<part name="SUPPLY1" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VDD" device=""/>
+<part name="SUPPLY2" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="VSS" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -23703,9 +24537,14 @@ Based on the following sources:
 <attribute name="NAME" x="198.12" y="-9.525" size="1.778" layer="95"/>
 <attribute name="VALUE" x="198.12" y="-17.78" size="1.778" layer="96"/>
 </instance>
-<instance part="U$5" gate="G$1" x="330.2" y="-10.16" smashed="yes">
-<attribute name="NAME" x="332.74" y="-2.54" size="1.27" layer="94"/>
-<attribute name="VALUE" x="332.74" y="-5.08" size="1.27" layer="94"/>
+<instance part="SUPPLY1" gate="G$1" x="274.32" y="81.28" smashed="yes">
+<attribute name="VALUE" x="272.415" y="84.455" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY2" gate="G$1" x="294.64" y="81.28" smashed="yes" rot="R180">
+<attribute name="VALUE" x="296.545" y="85.979" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="IC5" gate="P" x="264.16" y="78.74" smashed="yes">
+<attribute name="NAME" x="262.89" y="78.105" size="1.778" layer="95"/>
 </instance>
 </instances>
 <busses>
@@ -23752,12 +24591,18 @@ Based on the following sources:
 <junction x="71.12" y="-40.64"/>
 </segment>
 <segment>
-<pinref part="GND3" gate="1" pin="GND"/>
-<wire x1="304.8" y1="78.74" x2="297.18" y2="78.74" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="R5" gate="G$1" pin="2"/>
 <pinref part="GND8" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="GND3" gate="1" pin="GND"/>
+<wire x1="304.8" y1="78.74" x2="294.64" y2="78.74" width="0.1524" layer="91"/>
+<label x="297.18" y="78.74" size="1.778" layer="95"/>
+<pinref part="SUPPLY2" gate="G$1" pin="VSS"/>
+<pinref part="IC5" gate="P" pin="VSS"/>
+<wire x1="264.16" y1="71.12" x2="304.8" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="304.8" y1="71.12" x2="304.8" y2="78.74" width="0.1524" layer="91"/>
+<junction x="304.8" y="78.74"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -23847,8 +24692,16 @@ Based on the following sources:
 </segment>
 <segment>
 <pinref part="P+5" gate="VCC" pin="VCC"/>
-<wire x1="271.78" y1="78.74" x2="276.86" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="271.78" y1="78.74" x2="274.32" y2="78.74" width="0.1524" layer="91"/>
 <pinref part="P+6" gate="1" pin="+5V"/>
+<wire x1="274.32" y1="78.74" x2="276.86" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="73.66" x2="274.32" y2="78.74" width="0.1524" layer="91"/>
+<junction x="274.32" y="78.74"/>
+<label x="274.32" y="73.66" size="1.778" layer="95"/>
+<pinref part="SUPPLY1" gate="G$1" pin="VDD"/>
+<pinref part="IC5" gate="P" pin="VDD"/>
+<wire x1="264.16" y1="86.36" x2="264.16" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="264.16" y1="78.74" x2="274.32" y2="78.74" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VCC" class="0">
@@ -24064,19 +24917,14 @@ Based on the following sources:
 <approved hash="102,1,271.78,78.74,VCC,+5V,,,,"/>
 <approved hash="201,1,271.78,78.74,VCC,+5V\, VCC,,,,"/>
 <approved hash="104,1,190.5,111.76,P1,VCC,+5V,,,"/>
-<approved hash="204,1,355.6,88.9,IC2,VSS,,,,"/>
-<approved hash="204,1,355.6,76.2,IC2,VDD,,,,"/>
 <approved hash="202,1,355.6,66.04,IC2,TCK,,,,"/>
 <approved hash="204,1,416.56,71.12,IC2,VDDCORE,,,,"/>
 <approved hash="202,1,416.56,73.66,IC2,TDI,,,,"/>
 <approved hash="202,1,416.56,76.2,IC2,TMS,,,,"/>
-<approved hash="204,1,416.56,88.9,IC2,VSS,,,,"/>
-<approved hash="204,1,416.56,91.44,IC2,VDD,,,,"/>
 <approved hash="204,1,449.58,91.44,IC3,CVSS,,,,"/>
 <approved hash="204,1,449.58,88.9,IC3,LI,,,,"/>
 <approved hash="204,1,449.58,86.36,IC3,CVCC,,,,"/>
 <approved hash="202,1,449.58,66.04,IC3,XTAL2,,,,"/>
-<approved hash="204,1,485.14,83.82,IC3,VSS,,,,"/>
 <approved hash="204,1,485.14,86.36,IC3,DVCC,,,,"/>
 <approved hash="202,1,515.62,76.2,IC4,RBIAS,,,,"/>
 <approved hash="202,1,515.62,83.82,IC4,+VDC,,,,"/>
@@ -24085,9 +24933,6 @@ Based on the following sources:
 <approved hash="202,1,515.62,73.66,IC4,MODE,,,,"/>
 <approved hash="202,1,543.56,78.74,IC4,CLOCK,,,,"/>
 <approved hash="202,1,543.56,76.2,IC4,UP/!DN,,,,"/>
-<approved hash="113,1,162.797,81.5061,BAT,,,,,"/>
-<approved hash="113,1,31.124,-3.58394,PROBE,,,,,"/>
-<approved hash="113,1,53.5771,-39.1439,GND,,,,,"/>
 </errors>
 </schematic>
 </drawing>
