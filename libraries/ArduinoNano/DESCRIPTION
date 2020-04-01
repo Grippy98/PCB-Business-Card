@@ -1,0 +1,54 @@
+<b>Arduino Nano V3.0 Module</b>
+<p>This library was created by <a href="http://www.linkedin.com/pub/marco-luis-salcedo-tovar/6/874/b73">Esp. Marco-Luis SALCEDO TOVAR</a>, please report any errors or suggestions to: <a href="mailto:yv1hx@cantv.net">yv1hx@cantv.net</a></p>
+<p>This version: <b>0.6</b> (maintenance release), released on: <font color="blue"><b>January 01, 2.017</b></font>.</p>
+<br>
+<table border=1 cellspacing=0 cellpadding=0>
+<tr>
+<th colspan="3">Revision history:</th>
+</tr>
+<tr>
+<th width=50><b>Version</b></th>
+<th width=110><b>Date</b></th>
+<th width=380><b>Comments</b></th>
+</tr>
+<tr>
+<td><center>0.1</center></td>
+<td><center>January 22, 2.016</center></td>
+<td> <font color="green"><b>Initial Release.<b></font></td>
+</tr>
+<tr>
+<td><center>0.2</center></td>
+<td><center>January 25, 2.016</center></td>
+<td><font color="blue"><b>Added:</b></font><br>Revision history table.<br><font color="red"><b>Updated:</b></font><br>Minor cosmetic changes.<br>Device general description.</td>
+</tr>
+<tr>
+<td><center>0.3</center></td>
+<td><center>February 05, 2.016</center></td>
+<td><font color="blue"><b>Added:</b></font><br>Updated signal names labels on most multipurpose pins.<br>Signal directions  (Arrows) on <b>D0/RX</b> - <b>D1/TX</b> pins.<br><font color="red"><b>Updated:</b></font><br>Revision history table.</br></td>
+</tr>
+<tr>
+<td><center>0.4</center></td>
+<td><center>May 30, 2.016</center></td>
+<td><font color="blue"><b>Added:</b></font><br>Center cross marks on board corner holes.<br><font color="red"><b>Updated:</b></font><br>Revision history table.<br>Library updated and tested for compatibility on Eagle 7.5.0.<br>Minor cosmetic changes on history table formatting.<br>Updated device physical dimensions on general specifications table.</td>
+</tr>
+<tr>
+<td><center>0.5</center></td>
+<td><center>August 02, 2.016</center></td>
+<td><font color="blue"><b>Added:</b></font><br>N/A.<br><font color="red"><b>Updated:</b></font><br>Revision history table.<br>Library tested for compatibility on Eagle 7.6.0.</td>
+</tr>
+<tr>
+<td><center>0.6</center></td>
+<td><center>January 01, 2.017</center></td>
+<td><font color="blue"><b>Added:</b></font><br>N/A.<br><font color="red"><b>Updated:</b></font><br>Revision history table.<br>Library tested for compatibility on Eagle 7.7.0.</td>
+</tr>
+</table>
+<br>
+
+<p>Released under the <b>Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5)</b> licence terms.</p>
+
+<p>You are free to:<br>
+<b>Share</b> — copy and redistribute the material in any medium or format<br>
+<b>Adapt</b> — remix, transform, and build upon the material for any purpose, even commercially.</p>
+
+<p>The licensor cannot revoke these freedoms as long as you follow the license terms.</p>
+<p>You can download a full copy of this license from <a href="http://creativecommons.org/licenses/by-sa/2.5">here</a>.</p>
