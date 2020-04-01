@@ -7,7 +7,7 @@ Therefore I set out to design what you see before you, my very own extremely fun
 
 ###### A huge shoutout to Loann Boudin for his NFC design and for documenting it on Instructables: https://www.instructables.com/id/PCB-Business-Card-With-NFC/
 
-#### As far as the card’s functionality goes: 
+### As far as the card’s functionality goes: 
 
 1. 1S Lithium Battery Charger 
 2. NFC Enabled - Have it setup to link to my Website/Resume (also demonstrates power harvesting to LED)
@@ -23,4 +23,20 @@ Therefore I set out to design what you see before you, my very own extremely fun
 ![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/blob/master/images/back.jpg "PCB Back")
 ---
 
+### Ordering Your Own
+
+The Boards you see were made by JLC PCB with an ENIG finnish, regular LEAD free also works. I do very much recommend you don't hand out leaded PCBs for people to handle and keep in their wallets, but that's just my two cents.
+
+I have experimented with 0.6mm Thick Boards and above, but I recommend 0.8mm as it's thin enough while also being a bit more rigid. 
+
+### BOM:
+(TODO - fill out when I have some more time, consult schematic otherwise)
+1x BRCL4054BME Power Management IC
+
+
+### Notes on Soldering:
+
+It's all rather easy to solder by hand, save for the QFN8 Package of the NFC IC, which is tough to get right, especially with Lead-free solder paste. I was able to make over 30 of these boards without defect and minor fixes by using solder masks and plenty of flux, but this is very much not beginner friendly. 
+
+![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/blob/master/images/microscope.jpg "Under the Microscope")
 
