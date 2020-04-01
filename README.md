@@ -19,8 +19,8 @@ Therefore I set out to design what you see before you, my very own extremely fun
 8. Reference for PCB Font Sizes 
 9. Reference for some standard component footprints
 
-![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/images/front.jpg "PCB Front")
-![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/images/back.jpg "PCB Back")
+![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/blob/master/images/front.jpg "PCB Front")
+![alt text](https://github.com/Grippy98/PCB-Buisiness-Card/blob/master/images/back.jpg "PCB Back")
 ---
 
 
