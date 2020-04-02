@@ -1,4 +1,4 @@
-# PCB-Buisiness-Card
+# PCB-Business-Card
 ---
 
 Business Cards are always something that I’ve found to be sort of a nuisance. On one hand, they’re something that very few people ever have on hand, and on the other, when you do get one, you’re very likely to misplace or throw it away. That being said, they are a good way of sharing your contact details, and while I have made my own nicely designed ones on paper, I couldn’t help but think that I could make something better. My goal here was to make something that not only could I be proud to give out to possible recruiters or people I’d want to contact in the future, but I wanted to make something they’d actually WANT to keep with them or in their wallet.
